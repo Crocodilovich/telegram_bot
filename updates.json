@@ -1,0 +1,54 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 744894717,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 381528184,
+          "is_bot": false,
+          "first_name": "Alexandr",
+          "last_name": "Ivanov",
+          "language_code": "ru-RU"
+        },
+        "chat": {
+          "id": 381528184,
+          "first_name": "Alexandr",
+          "last_name": "Ivanov",
+          "type": "private"
+        },
+        "date": 1520456317,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 744894718,
+      "message": {
+        "message_id": 4,
+        "from": {
+          "id": 381528184,
+          "is_bot": false,
+          "first_name": "Alexandr",
+          "last_name": "Ivanov",
+          "language_code": "ru-RU"
+        },
+        "chat": {
+          "id": 381528184,
+          "first_name": "Alexandr",
+          "last_name": "Ivanov",
+          "type": "private"
+        },
+        "date": 1520456322,
+        "text": "Привет"
+      }
+    }
+  ]
+}
