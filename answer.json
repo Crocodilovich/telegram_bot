@@ -1,0 +1,21 @@
+{
+  "update_id": 535536467,
+  "message": {
+    "message_id": 16,
+    "from": {
+      "id": 381528184,
+      "is_bot": false,
+      "first_name": "Alexandr",
+      "last_name": "Ivanov",
+      "language_code": "ru-RU"
+    },
+    "chat": {
+      "id": 381528184,
+      "first_name": "Alexandr",
+      "last_name": "Ivanov",
+      "type": "private"
+    },
+    "date": 1521056436,
+    "text": "fsdf"
+  }
+}
